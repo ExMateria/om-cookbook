@@ -8,7 +8,7 @@
 lein new chestnut scrollbar -- --om-tools --http-kit
 ```
 
-2) Use your editor of choice to open the file `scrollbar/src/cljs/core.cljs`
+2) Use your editor of choice to open the file `scrollbar/src/cljs/scrollbar/core.cljs`
 
 
 3) Your initial app-state should look like this.
